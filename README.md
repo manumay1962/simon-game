@@ -1,2 +1,2 @@
 # simon_game
-# this is a game besed on js html css
+# this is a game based on js html css
